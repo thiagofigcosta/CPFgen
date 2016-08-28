@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/01/21 14:19:11.000.657,=C:\Users\ticotico\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/01/21 14:58:24.000.253,C:\Users\ticotico\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\ticotico\Desktop\Programas\Gerador de CPF\UnitCPF.dfm</Transaction>
+    <Transaction>2012/01/21 14:58:24.000.253,C:\Users\ticotico\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\ticotico\Desktop\Programas\Gerador de CPF\UnitCPF.pas</Transaction>
+    <Transaction>2012/01/21 14:58:58.000.683,C:\Users\ticotico\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\ticotico\Desktop\Programas\Gerador de CPF\iNanoGeradordeCPF.dproj</Transaction>
+    <Transaction>2013/03/03 20:53:19.276,H:\Projects\Delphi\Programas\Gerador de CPF\iNanoGeradordeCPF_XE3.dproj=H:\Projects\Delphi\Programas\Gerador de CPF\iNanoGeradordeCPF.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
